@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "./static/js/main.35b4ea86.chunk.js",
+    "main.js.map": "./static/js/main.35b4ea86.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5eb56f28.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5eb56f28.js.map",
+    "static/css/2.a95be28f.chunk.css": "./static/css/2.a95be28f.chunk.css",
+    "static/js/2.d0d800b5.chunk.js": "./static/js/2.d0d800b5.chunk.js",
+    "static/js/2.d0d800b5.chunk.js.map": "./static/js/2.d0d800b5.chunk.js.map",
+    "static/js/3.a3b8dba2.chunk.js": "./static/js/3.a3b8dba2.chunk.js",
+    "static/js/3.a3b8dba2.chunk.js.map": "./static/js/3.a3b8dba2.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.a95be28f.chunk.css.map": "./static/css/2.a95be28f.chunk.css.map",
+    "static/js/2.d0d800b5.chunk.js.LICENSE.txt": "./static/js/2.d0d800b5.chunk.js.LICENSE.txt",
+    "static/media/role_Mage.79d7d0ea.png": "./static/media/role_Mage.79d7d0ea.png",
+    "static/media/role_Ranger.45f429ae.png": "./static/media/role_Ranger.45f429ae.png",
+    "static/media/role_Robber.375e1c5c.png": "./static/media/role_Robber.375e1c5c.png",
+    "static/media/role_Warrior.4b142cba.png": "./static/media/role_Warrior.4b142cba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb56f28.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.d0d800b5.chunk.js",
+    "static/js/main.35b4ea86.chunk.js"
+  ]
+}
