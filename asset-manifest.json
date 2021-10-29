@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "./static/js/main.f6cb9354.chunk.js",
+    "main.js": "./static/js/main.f17e097e.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.806e5500.js",
     "static/css/2.a1e3eec8.chunk.css": "./static/css/2.a1e3eec8.chunk.css",
-    "static/js/2.7138c3a3.chunk.js": "./static/js/2.7138c3a3.chunk.js",
+    "static/js/2.8841ac70.chunk.js": "./static/js/2.8841ac70.chunk.js",
     "static/js/3.87f9b86f.chunk.js": "./static/js/3.87f9b86f.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.7138c3a3.chunk.js.LICENSE.txt": "./static/js/2.7138c3a3.chunk.js.LICENSE.txt",
+    "static/js/2.8841ac70.chunk.js.LICENSE.txt": "./static/js/2.8841ac70.chunk.js.LICENSE.txt",
     "static/media/role_Mage.79d7d0ea.png": "./static/media/role_Mage.79d7d0ea.png",
     "static/media/role_Ranger.45f429ae.png": "./static/media/role_Ranger.45f429ae.png",
     "static/media/role_Robber.375e1c5c.png": "./static/media/role_Robber.375e1c5c.png",
@@ -15,7 +15,7 @@
   "entrypoints": [
     "static/js/runtime-main.806e5500.js",
     "static/css/2.a1e3eec8.chunk.css",
-    "static/js/2.7138c3a3.chunk.js",
-    "static/js/main.f6cb9354.chunk.js"
+    "static/js/2.8841ac70.chunk.js",
+    "static/js/main.f17e097e.chunk.js"
   ]
 }
