@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "./static/js/main.d24a2f41.chunk.js",
+    "main.js": "./static/js/main.51aeba9f.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.8ee5eb23.js",
     "static/css/2.a1e3eec8.chunk.css": "./static/css/2.a1e3eec8.chunk.css",
-    "static/js/2.ea7231b5.chunk.js": "./static/js/2.ea7231b5.chunk.js",
+    "static/js/2.f0204d11.chunk.js": "./static/js/2.f0204d11.chunk.js",
     "static/js/3.e22d02ad.chunk.js": "./static/js/3.e22d02ad.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.ea7231b5.chunk.js.LICENSE.txt": "./static/js/2.ea7231b5.chunk.js.LICENSE.txt",
+    "static/js/2.f0204d11.chunk.js.LICENSE.txt": "./static/js/2.f0204d11.chunk.js.LICENSE.txt",
     "static/media/role_Katrina.1482a83c.png": "./static/media/role_Katrina.1482a83c.png",
     "static/media/role_Mage.79d7d0ea.png": "./static/media/role_Mage.79d7d0ea.png",
     "static/media/role_Ranger.45f429ae.png": "./static/media/role_Ranger.45f429ae.png",
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.8ee5eb23.js",
     "static/css/2.a1e3eec8.chunk.css",
-    "static/js/2.ea7231b5.chunk.js",
-    "static/js/main.d24a2f41.chunk.js"
+    "static/js/2.f0204d11.chunk.js",
+    "static/js/main.51aeba9f.chunk.js"
   ]
 }
