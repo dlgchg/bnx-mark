@@ -25,13 +25,6 @@ object-assign
  */
 
 /*!
- * cookie
- * Copyright(c) 2012-2014 Roman Shtylman
- * Copyright(c) 2015 Douglas Christopher Wilson
- * MIT Licensed
- */
-
-/*!
  * v2.1.4-104-gc868b3a
  * 
  */
